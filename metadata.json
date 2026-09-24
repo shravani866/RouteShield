@@ -1,0 +1,6 @@
+{
+  "name": "RouteShield Energy Decision Platform",
+  "description": "Enterprise decision-support platform for energy procurement and supply-chain continuity during maritime chokepoint disruptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
